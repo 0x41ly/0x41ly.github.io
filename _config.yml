@@ -97,7 +97,7 @@ author:
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cybersecurity Researcher @ Resecurity, Jr Penetration Tester, .NET Core Backend Developer, Computers and Automatic Control Graduate"
   location         : "Tanta"
-  email            : alykhaledxd@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
