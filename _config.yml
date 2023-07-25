@@ -20,7 +20,7 @@ title                    : "0x41ly"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "0x41ly"
-description              : "Cybersecurity Researcher @ Resecurity | Jr Penetration Tester | .NET Core Backend Developer | Computers and Automatic Control Graduate"
+description              : "Cybersecurity Researcher @ Resecurity, Jr Penetration Tester, .NET Core Backend Developer, Computers and Automatic Control Graduate"
 url                      : "https://0x41ly.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "0x41ly"
-  avatar           : /assets/images/site_data/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cybersecurity Researcher @ Resecurity | Jr Penetration Tester | .NET Core Backend Developer | Computers and Automatic Control Graduate"
+  avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Cybersecurity Researcher @ Resecurity, Jr Penetration Tester, .NET Core Backend Developer, Computers and Automatic Control Graduate"
   location         : "Tanta"
   email            : 
   links:
@@ -104,7 +104,7 @@ author:
       url: "mailto:alykhaledxd@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://0x41ly.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Aly_Khal3d"
